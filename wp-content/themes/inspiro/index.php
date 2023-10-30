@@ -24,7 +24,8 @@ get_header(); ?>
 		</header>
 	<?php else : ?>
 	<header class="page-header">
-		<h2 class="page-title"><?php esc_html_e( 'Latest Posts', 'inspiro' ); ?></h2>
+		<h2 class="page-title iii"><?php esc_html_e( 'Latest Posts', 'inspiro' ); ?></h2>
+		<?php echo '123123test';?>
 	</header>
 	<?php endif; ?>
 
