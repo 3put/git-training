@@ -28,7 +28,7 @@ get_header(); ?>
 		<?php echo '123123test';?>
 	</header>
 	<?php endif; ?>
-
+<!-- Comment 31.10.2023 -->
 	<div id="primary" class="content-area">
 		<main id="main" class="site-main" role="main">
 
